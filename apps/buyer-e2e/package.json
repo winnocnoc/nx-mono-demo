@@ -1,0 +1,10 @@
+{
+  "name": "@nx-mono-demo/buyer-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@nx-mono-demo/buyer"
+    ]
+  }
+}
